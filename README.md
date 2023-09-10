@@ -1,0 +1,1 @@
+This simple web application allows users to convert temperatures between Celsius, Fahrenheit, and Kelvin. It provides a straightforward and user-friendly interface to quickly perform temperature conversions.
